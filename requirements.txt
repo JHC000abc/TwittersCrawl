@@ -1,0 +1,11 @@
+twikit
+pytz
+requests
+redis
+schedule
+telethon
+python-telegram-bot
+apscheduler
+pysocks
+celery
+aiohttp
